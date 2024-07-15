@@ -23,6 +23,7 @@ export default function Menu(){
             <nav className="flex flex-col gap-2 py-2 px-3">
                 <ItemMenu icone={FaHandsWash} label="Dashoard" url="/dashboard" />
                 <ItemMenu icone={FaPlusSquare} label="Cadastro" url="/cadastro" />
+                <ItemMenu icone={FaPlusSquare} label="Produtos" url="/product" />
                 <ItemMenu icone={FaRegArrowAltCircleDown} label="Login" url="/" />
             </nav>
         </div>

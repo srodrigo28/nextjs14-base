@@ -14,3 +14,8 @@ npm install react-icons --save
 ```
 https://react-icons.github.io/react-icons/icons/md/
 ```
+
+#### Entidades e tabelas
+* Clients
+* Users
+* Products
